@@ -1,0 +1,63 @@
+	.ola10{
+		background: black;
+		color: gold;
+		display: flex;
+	}
+	.ola13{
+		background: white;
+		color: gold;
+	}
+	.ola14{
+		background: gold;
+	}
+	.ola15{
+		color: white !important;
+	}
+	.wrapper{
+		display: flex;
+		/*margin-left: 73px;*/
+	}
+	.news{
+		margin-right: 35px;
+	}
+	.navbar{
+		display: flex;
+		margin-top: 35px;
+		margin-right: 35px;
+
+	}
+	.navbar1{
+		padding-right: 35px;
+		list-style: none;
+
+
+	}
+	.navbar3{
+		padding-right: 35px;
+	}
+	.navbar4{
+		padding-right: 35px;
+	}
+	/*.logo{
+		margin-right: 37rem;
+	}*/
+	.logo{
+		margin-right: 37rem;
+		
+	}
+	.picture{
+		height: 180px
+	}
+	/*.ola16{
+		margin-left: 73px
+	}*/
+	.button {
+  background-color: #4CAF50; /* Gold */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
